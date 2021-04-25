@@ -16,7 +16,7 @@ After this step was completed, a pivot table was created to organize the data in
 
 From there, utilizing the pivot table, a line chart visualizes the outcome of a theater kickstarter by month and the number of successful, failed and canceled outcomes:
 
-INSERT LINK HERE
+https://github.com/jo-robles/kickstarter-analysis/blob/781eb1eea464f4c3d13a2411cb721d758d5f578f/Resources/Outcomes_vs_Goals.png
 
 ### Analysis of Outcomes Based on Goals
 
